@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sJf0JjGdIPnneSQC/mvYh7Q7MdOouQFtwtFXygPm+u3eKy6IXDIz2Ji9bCZSltXOlz7+oTQiR90uiD/afpZJNQ==",
+  "dgSpecHash": "6PcJGLYE0q6bQEcJ4fvblj/327Z1oWDnzsqrIwl/aJPu1JComWH5UwqwW8gRUG+3VBQYglgjleX8vKHlpA3WrQ==",
   "success": true,
-  "projectFilePath": "C:\\Schule\\Informatik\\C#\\Tetris\\Tetris.csproj",
+  "projectFilePath": "C:\\Schule\\Informatik\\C#\\Tetris\\Tetris\\Tetris.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

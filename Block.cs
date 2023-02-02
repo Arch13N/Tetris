@@ -50,7 +50,7 @@ namespace Tetris
             offset.row += row;
             offset.col += col;
         }
-
+        
         public void Reset()
         {
             rotation = 0;
